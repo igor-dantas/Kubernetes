@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cursos.alura.com.br/
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/92132038/3a9b9d00-e6b4-11ea-8fe1-582cde63ac1e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220211T203629Z&X-Amz-Expires=300&X-Amz-Signature=3277106c5c4fca35d49adf1bf9563ece94f5ab695dfd7fea5884f68ecfee7d03&X-Amz-SignedHeaders=host&actor_id=55963347&key_id=0&repo_id=92132038&response-content-disposition=attachment%3B%20filename%3Dcomponents.yaml&response-content-type=application%2Foctet-stream
